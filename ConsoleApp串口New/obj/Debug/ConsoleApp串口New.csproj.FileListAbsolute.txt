@@ -1,0 +1,7 @@
+D:\YAOZJ\OneDrive - 5T\Documents\Visual Studio 2019\ConsoleApp串口New\bin\Debug\ConsoleApp串口New.exe.config
+D:\YAOZJ\OneDrive - 5T\Documents\Visual Studio 2019\ConsoleApp串口New\bin\Debug\ConsoleApp串口New.exe
+D:\YAOZJ\OneDrive - 5T\Documents\Visual Studio 2019\ConsoleApp串口New\bin\Debug\ConsoleApp串口New.pdb
+D:\YAOZJ\OneDrive - 5T\Documents\Visual Studio 2019\ConsoleApp串口New\obj\Debug\ConsoleApp串口New.csprojAssemblyReference.cache
+D:\YAOZJ\OneDrive - 5T\Documents\Visual Studio 2019\ConsoleApp串口New\obj\Debug\ConsoleApp串口New.csproj.CoreCompileInputs.cache
+D:\YAOZJ\OneDrive - 5T\Documents\Visual Studio 2019\ConsoleApp串口New\obj\Debug\ConsoleApp串口New.exe
+D:\YAOZJ\OneDrive - 5T\Documents\Visual Studio 2019\ConsoleApp串口New\obj\Debug\ConsoleApp串口New.pdb
